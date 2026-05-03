@@ -1,8 +1,8 @@
-                                           # Hi, I'm Aqsa Pervaiz! 👋
+#                                          Hi, I'm Aqsa Pervaiz! 👋
 
-                             ### AI/ML Engineer · Python Developer · NLP Enthusiast
+###                            AI/ML Engineer · Python Developer · NLP Enthusiast
 
-                          #### 📍 Pakistan |  Open to Remote & On-site Roles Globally
+ ####                         📍 Pakistan |  Open to Remote & On-site Roles Globally
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aqsa_Pervaiz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqsa-pervaiz-b71579402)
 [![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML%20Engineering-7B2D8E?style=flat-square)]()
