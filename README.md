@@ -65,4 +65,4 @@ I build **AI/ML models that solve real problems** — from mental health chatbot
 
 ---
 
-                                       *Building AI that makes a difference.* 🚀
+                                       Building AI that makes a difference.🚀
